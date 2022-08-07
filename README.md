@@ -12,7 +12,7 @@ Repository of Machine Learning projects:
      * Naive Bayes
 
  - Project 1: Australian_Weather
-     * Prediction of raining on Australian cities
+     * Prediction if the following day will rain in Australia
  
  - Project 2: World Happiness Report
      * Prediction of world happiness
